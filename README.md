@@ -1,3 +1,9 @@
+These scripts have been created by Will Li, Technical Specialist at Microsoft, for the purpose of learning about containerizing and migrating Java applications to Azure. These scripts are intended to be used with Microsoft Learn modules for Azure Migrate App Containerization. 
+
+Currently, these scripts are being used to deploy a two-tier Java application running on Apache Tomcat for the following Microsoft Learn modules - 
+
+- [Migrate ASP.NET applications to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/migrate-aspnet-app-azure-kubernetes-service/)
+- [Migrate ASP.NET applications to Azure App Service](https://docs.microsoft.com/en-us/learn/modules/migrate-aspnet-app-azure-app-service//)
 
 # Contributing
 
